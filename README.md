@@ -5,3 +5,4 @@ This application uses jquery and a firebase api.  Firebase is what stores the da
 The deployed application can be found here. 
 https://suzannaudra.github.io/TrainSchedule/
 
+![TrainScheduler](TrainScheduler.png)
